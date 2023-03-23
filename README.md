@@ -1,2 +1,2 @@
 # TIPs
-The MetaOS Improvement Proposal repository
+The TOS Improvement Proposal repository
