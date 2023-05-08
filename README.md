@@ -1,2 +1,2 @@
 # TIPs
-TOSLA Improvement Proposal repository
+TOS Improvement Proposal repository
